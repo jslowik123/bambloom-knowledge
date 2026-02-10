@@ -1,0 +1,41 @@
+{
+  "flowers": [
+    {
+      "type": "regular",
+      "name": "Garden Flower",
+      "description": "A beautiful bloom from your daily progress",
+      "color": "#66BB6A",
+      "fallbackIcon": "local_florist",
+      "assets": [
+        "Flower1.png",
+        "Flower2.png",
+        "Flower3.png",
+        "Flower4.png",
+        "Flower5.png",
+        "Flower6.png",
+        "Flower7.png",
+        "Flower8.png",
+        "Flower9.png",
+        "Flower10.png",
+        "Flower11.png",
+        "Flower12.png"
+      ],
+      "isSpecial": false,
+      "canBeRandom": true
+    },
+    {
+      "type": "perfect",
+      "name": "Golden Bloom",
+      "description": "A rare flower that blooms when you complete all your daily tasks",
+      "color": "#FFD700",
+      "fallbackIcon": "auto_awesome",
+      "assets": [
+        "Flower13.png",
+        "Flower14.png",
+        "Flower15.png"
+      ],
+      "isSpecial": true,
+      "canBeRandom": false
+    }
+  ]
+}
