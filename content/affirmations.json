@@ -1,0 +1,139 @@
+{
+  "total": 78,
+  "categories": ["growth", "selfLove", "strength", "confidence", "mindfulness", "resilience", "transformation", "gratitude"],
+  "affirmations": [
+    {
+      "week": 1, "days": "1-7", "theme": "Getting Started",
+      "items": [
+        {"day": 1, "text": "Today, I choose progress over perfection.", "category": "growth"},
+        {"day": 2, "text": "Every small step forward is a victory worth celebrating.", "category": "growth"},
+        {"day": 3, "text": "I am worthy of the time and energy I invest in myself.", "category": "selfLove"},
+        {"day": 4, "text": "My body deserves kindness, not punishment.", "category": "selfLove"},
+        {"day": 5, "text": "Consistency is my superpower.", "category": "strength"},
+        {"day": 6, "text": "I trust the process, even when progress feels slow.", "category": "confidence"},
+        {"day": 7, "text": "Rest is not weakness; it is wisdom.", "category": "mindfulness"}
+      ]
+    },
+    {
+      "week": 2, "days": "8-14", "theme": "Building Momentum",
+      "items": [
+        {"day": 8, "text": "I am creating habits that will last a lifetime.", "category": "growth"},
+        {"day": 9, "text": "My worth is not measured by my productivity.", "category": "selfLove"},
+        {"day": 10, "text": "I show up for myself, even on the hard days.", "category": "strength"},
+        {"day": 11, "text": "Progress isn't linear, and that's okay.", "category": "mindfulness"},
+        {"day": 12, "text": "I am stronger than I was yesterday.", "category": "strength"},
+        {"day": 13, "text": "Every day is a fresh chance to honor my commitment.", "category": "growth"},
+        {"day": 14, "text": "I listen to my body and give it what it needs.", "category": "selfLove"}
+      ]
+    },
+    {
+      "week": 3, "days": "15-21", "theme": "Foundation Building",
+      "items": [
+        {"day": 15, "text": "I am building a foundation of self-love.", "category": "selfLove"},
+        {"day": 16, "text": "My journey is unique, and I celebrate that.", "category": "confidence"},
+        {"day": 17, "text": "I choose sustainable habits over quick fixes.", "category": "growth"},
+        {"day": 18, "text": "I am proud of showing up, even imperfectly.", "category": "selfLove"},
+        {"day": 19, "text": "My gentle efforts compound into powerful results.", "category": "strength"},
+        {"day": 20, "text": "I deserve a life filled with health and happiness.", "category": "selfLove"},
+        {"day": 21, "text": "I am learning to balance effort and ease.", "category": "mindfulness"}
+      ]
+    },
+    {
+      "week": 4, "days": "22-28", "theme": "Deepening Commitment",
+      "items": [
+        {"day": 22, "text": "I trust myself to follow through.", "category": "confidence"},
+        {"day": 23, "text": "My self-care is an act of self-respect.", "category": "selfLove"},
+        {"day": 24, "text": "I am worthy of the goals I'm pursuing.", "category": "confidence"},
+        {"day": 25, "text": "Every day, I am becoming more aligned with my best self.", "category": "transformation"},
+        {"day": 26, "text": "I honor my body by moving it with love.", "category": "selfLove"},
+        {"day": 27, "text": "I nourish myself in ways that feel good.", "category": "selfLove"},
+        {"day": 28, "text": "I am patient with my process.", "category": "mindfulness"}
+      ]
+    },
+    {
+      "week": 5, "days": "29-35", "theme": "Midpoint Milestone",
+      "items": [
+        {"day": 29, "text": "Halfway is a milestone, not a finish line.", "category": "growth"},
+        {"day": 30, "text": "I am capable of finishing what I start.", "category": "confidence"},
+        {"day": 31, "text": "My dedication to myself is unwavering.", "category": "strength"},
+        {"day": 32, "text": "I celebrate how far I've come.", "category": "gratitude"},
+        {"day": 33, "text": "I am creating a life I love, one day at a time.", "category": "transformation"},
+        {"day": 34, "text": "I choose consistency over intensity.", "category": "mindfulness"},
+        {"day": 35, "text": "I am exactly where I need to be.", "category": "mindfulness"}
+      ]
+    },
+    {
+      "week": 6, "days": "36-42", "theme": "Resilience",
+      "items": [
+        {"day": 36, "text": "I bounce back stronger every time.", "category": "resilience"},
+        {"day": 37, "text": "Challenges are opportunities to grow.", "category": "resilience"},
+        {"day": 38, "text": "I am resilient, capable, and strong.", "category": "resilience"},
+        {"day": 39, "text": "I forgive myself for imperfect days.", "category": "selfLove"},
+        {"day": 40, "text": "My journey is teaching me patience and grace.", "category": "mindfulness"},
+        {"day": 41, "text": "I am committed to myself, no matter what.", "category": "strength"},
+        {"day": 42, "text": "I am building a relationship with myself built on trust.", "category": "selfLove"}
+      ]
+    },
+    {
+      "week": 7, "days": "43-49", "theme": "Transformation",
+      "items": [
+        {"day": 43, "text": "I am transforming from the inside out.", "category": "transformation"},
+        {"day": 44, "text": "My habits are shaping my future self.", "category": "transformation"},
+        {"day": 45, "text": "I am proud of the person I am becoming.", "category": "confidence"},
+        {"day": 46, "text": "I invest in myself because I am worth it.", "category": "selfLove"},
+        {"day": 47, "text": "My growth is happening, even when I can't see it.", "category": "growth"},
+        {"day": 48, "text": "I am creating a legacy of self-love.", "category": "transformation"},
+        {"day": 49, "text": "I am my own best cheerleader.", "category": "confidence"}
+      ]
+    },
+    {
+      "week": 8, "days": "50-56", "theme": "Inner Strength",
+      "items": [
+        {"day": 50, "text": "My strength comes from within.", "category": "strength"},
+        {"day": 51, "text": "I am powerful beyond measure.", "category": "strength"},
+        {"day": 52, "text": "I trust my ability to navigate challenges.", "category": "resilience"},
+        {"day": 53, "text": "I am learning to love the journey, not just the destination.", "category": "mindfulness"},
+        {"day": 54, "text": "I am enough, exactly as I am.", "category": "selfLove"},
+        {"day": 55, "text": "My gentle persistence is changing my life.", "category": "transformation"},
+        {"day": 56, "text": "I honor my limits while pushing my boundaries.", "category": "strength"}
+      ]
+    },
+    {
+      "week": 9, "days": "57-63", "theme": "Gratitude",
+      "items": [
+        {"day": 57, "text": "I am grateful for my body and all it does for me.", "category": "gratitude"},
+        {"day": 58, "text": "I appreciate the small wins as much as the big ones.", "category": "gratitude"},
+        {"day": 59, "text": "I am thankful for the opportunity to grow.", "category": "gratitude"},
+        {"day": 60, "text": "I celebrate my resilience and determination.", "category": "gratitude"},
+        {"day": 61, "text": "I am grateful for the lessons this journey teaches me.", "category": "gratitude"},
+        {"day": 62, "text": "I honor the support I give myself.", "category": "selfLove"},
+        {"day": 63, "text": "I am thankful for my commitment to myself.", "category": "gratitude"}
+      ]
+    },
+    {
+      "week": 10, "days": "64-70", "theme": "Nearing the Finish",
+      "items": [
+        {"day": 64, "text": "I am so close to achieving what I set out to do.", "category": "confidence"},
+        {"day": 65, "text": "I finish what I start with grace and strength.", "category": "strength"},
+        {"day": 66, "text": "I am proud of my unwavering dedication.", "category": "confidence"},
+        {"day": 67, "text": "I am capable of completing this journey.", "category": "strength"},
+        {"day": 68, "text": "I trust myself to see this through.", "category": "confidence"},
+        {"day": 69, "text": "I am creating lasting change.", "category": "transformation"},
+        {"day": 70, "text": "I am rewriting my story, one day at a time.", "category": "transformation"}
+      ]
+    },
+    {
+      "week": 11, "days": "71-75+", "theme": "Final Push & Celebration",
+      "items": [
+        {"day": 71, "text": "I am unstoppable.", "category": "strength"},
+        {"day": 72, "text": "I have everything I need within me to succeed.", "category": "confidence"},
+        {"day": 73, "text": "I am stronger than any obstacle.", "category": "resilience"},
+        {"day": 74, "text": "I celebrate every single day I've shown up.", "category": "gratitude"},
+        {"day": 75, "text": "I am so proud of how far I've come.", "category": "gratitude"},
+        {"day": 76, "text": "I am committed to crossing the finish line.", "category": "strength"},
+        {"day": 77, "text": "I trust in my journey and my process.", "category": "mindfulness"},
+        {"day": 78, "text": "I am building a future I'm excited about.", "category": "transformation"}
+      ]
+    }
+  ]
+}

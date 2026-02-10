@@ -1,0 +1,87 @@
+{
+  "mascot": "Panda",
+  "description": "The Bambloom panda is a supportive, adorable companion that adapts messages based on user context.",
+  "moods": ["idle", "happy", "celebrate", "wave", "proud", "gentle", "sleepy", "excited", "encouraging"],
+  "dialogues": {
+    "greeting": [
+      "Hello, lovely! Ready to shine today?",
+      "Welcome back! I believe in you!",
+      "Hi there! Let's make today count!",
+      "Good to see you! What will we accomplish together?",
+      "Hey! Your consistency amazes me!"
+    ],
+    "idle_0_percent": [
+      "Ready when you are!",
+      "Let's start with one small step.",
+      "No pressure, just progress.",
+      "You've got this!",
+      "Take your time, I'm here with you.",
+      "Every journey starts with a single task.",
+      "Let's make today beautiful."
+    ],
+    "encouraging_1_to_49_percent": [
+      "You're off to a great start!",
+      "Look at you go!",
+      "I'm so proud of you already!",
+      "Every step matters!",
+      "You're doing amazing!",
+      "Keep that momentum going!",
+      "I knew you could do it!",
+      "You're stronger than you think!"
+    ],
+    "motivating_50_to_99_percent": [
+      "You're more than halfway there!",
+      "Almost complete! You're incredible!",
+      "Look how far you've come today!",
+      "Just a little more! You can do this!",
+      "So close! Finish strong!",
+      "You're crushing it today!",
+      "I'm amazed by your dedication!"
+    ],
+    "celebration_100_percent": [
+      "You did it! All tasks complete!",
+      "Perfect! You showed up for yourself today!",
+      "Amazing work! You deserve to celebrate!",
+      "A complete day! I'm so proud!",
+      "You're unstoppable! Day complete!",
+      "Beautiful! Every task checked off!",
+      "Incredible! You honored your commitment!",
+      "Yes! Another day of consistency!"
+    ],
+    "rest_day": [
+      "Rest is part of the journey.",
+      "Your body knows what it needs.",
+      "Recovery makes you stronger.",
+      "Listening to your body is wisdom.",
+      "Rest days are productive too!",
+      "You're taking care of yourself. That's progress."
+    ],
+    "milestone": {
+      "1": "Day 1! You took the first step. That's courage!",
+      "7": "One week! You're building something beautiful!",
+      "14": "Two weeks! Your consistency is inspiring!",
+      "21": "Three weeks! Habits are forming!",
+      "30": "One month! Look at this incredible commitment!",
+      "38": "Halfway! You're transforming before my eyes!",
+      "50": "Day 50! You're unstoppable!",
+      "60": "Day 60! The finish line is in sight!",
+      "70": "Day 70! Just 5 more days! You're amazing!",
+      "75": "75 DAYS! You did it! I'm so proud of you! \ud83d\udc95"
+    },
+    "comeback_missed_yesterday": [
+      "Welcome back! Today is a fresh start.",
+      "You're here, and that's what matters!",
+      "Every day is a new opportunity.",
+      "Glad you're back! Let's keep going!",
+      "You showed up. That takes strength!"
+    ],
+    "meal_logging": [
+      "Yum! Fueling your body right!",
+      "Great job tracking your meals!",
+      "Nourishing yourself is self-care.",
+      "Keep logging those healthy choices!",
+      "You are doing great with your nutrition!",
+      "One meal at a time. You got this!"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "daily_prompts": [
+    {
+      "id": 1,
+      "emoji": "\ud83d\udcad",
+      "topic": "Mood",
+      "prompt": "How do you feel about your Bambloom journey today?",
+      "purpose": "Emotional check-in and self-awareness"
+    },
+    {
+      "id": 2,
+      "emoji": "\ud83d\udcaa",
+      "topic": "Workout",
+      "prompt": "How did your workout go? What made it great or tough?",
+      "purpose": "Reflect on physical activity"
+    },
+    {
+      "id": 3,
+      "emoji": "\ud83e\udd57",
+      "topic": "Nutrition",
+      "prompt": "How did you nourish your body today?",
+      "purpose": "Mindful eating reflection"
+    },
+    {
+      "id": 4,
+      "emoji": "\ud83d\udcda",
+      "topic": "Reading",
+      "prompt": "What did you read today? Any insights or quotes?",
+      "purpose": "Capture learnings from reading"
+    },
+    {
+      "id": 5,
+      "emoji": "\ud83c\udfc6",
+      "topic": "Wins",
+      "prompt": "What are you proud of accomplishing today?",
+      "purpose": "Celebrate daily achievements"
+    },
+    {
+      "id": 6,
+      "emoji": "\ud83d\udea9",
+      "topic": "Tomorrow",
+      "prompt": "One thing I want to focus on tomorrow",
+      "purpose": "Set intention for next day"
+    }
+  ],
+  "mood_tracking": {
+    "type": "star_rating",
+    "scale": "1-5 stars",
+    "description": "Users rate their overall mood each day with a star rating"
+  }
+}
